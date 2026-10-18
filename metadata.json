@@ -1,0 +1,6 @@
+{
+  "name": "GREEN RESILIENCE AI",
+  "description": "Intelligent Multi-Product Sorting, Quality Monitoring and Resilient Supply Chain Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
